@@ -1,2 +1,2 @@
 test:
-	py.test --nbval 452-ML-PrepAssignment_Pallavi.ipynb
+	py.test --nbval-lax 452-ML-PrepAssignment_Pallavi.ipynb
